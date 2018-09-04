@@ -1,4 +1,1 @@
-    var firstName = "";
-    var lastName = "Collins";
-
-    var fullName = (firstName + lastName);
+var name = "Collins";
